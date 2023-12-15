@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@types/bs58": "4.0.1",
-    "electron": "15.5.7",
+    "electron": "22.3.25",
     "electron-builder": "22.14.13",
     "eslint": "8.20.0",
     "eslint-config-google": "0.14.0",
