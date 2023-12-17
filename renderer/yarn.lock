@@ -2757,12 +2757,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:17.0.17":
-  version: 17.0.17
-  resolution: "@types/react-dom@npm:17.0.17"
+"@types/react-dom@npm:17.0.25":
+  version: 17.0.25
+  resolution: "@types/react-dom@npm:17.0.25"
   dependencies:
     "@types/react": "npm:^17"
-  checksum: 8/23caf98aa03e968811560f92a2c8f451694253ebe16b670929b24eaf0e7fa62ba549abe9db0ac028a9d8a9086acd6ab9c6c773f163fa21224845edbc00ba6232
+  checksum: 18a95d4d684cacc697d97ae66e3c8402da2f866c053fa6a5982694aa8eb6229afcefd3bfaaab4175c1b0ef3494c881e4d25e2167aa669bcbbb84114fd02ae5ba
   languageName: node
   linkType: hard
 
@@ -2787,7 +2787,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.47, @types/react@npm:^17":
+"@types/react@npm:17.0.73":
+  version: 17.0.73
+  resolution: "@types/react@npm:17.0.73"
+  dependencies:
+    "@types/prop-types": "npm:*"
+    "@types/scheduler": "npm:*"
+    csstype: "npm:^3.0.2"
+  checksum: c30425641b595b1f88002ff7a8d5b13331b882107c3ad0c2e91550f46c705d52e977781430730f87394e074d2ba5a674d37d8fb4048fbea75eb6386e5a0020a1
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:^17":
   version: 17.0.47
   resolution: "@types/react@npm:17.0.47"
   dependencies:
@@ -12970,8 +12981,8 @@ __metadata:
   dependencies:
     "@craco/craco": "npm:6.4.5"
     "@rsuite/icons": "npm:1.0.2"
-    "@types/react": "npm:17.0.47"
-    "@types/react-dom": "npm:17.0.17"
+    "@types/react": "npm:17.0.73"
+    "@types/react-dom": "npm:17.0.25"
     eslint-plugin-react: "npm:7.30.1"
     eslint-plugin-react-hooks: "npm:4.6.0"
     react: "npm:17.0.2"
