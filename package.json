@@ -48,7 +48,7 @@
     "yaml": "1.10.2"
   },
   "devDependencies": {
-    "@types/bs58": "4.0.1",
+    "@types/bs58": "4.0.4",
     "electron": "22.3.25",
     "electron-builder": "22.14.13",
     "eslint": "8.20.0",
