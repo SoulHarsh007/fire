@@ -3,7 +3,7 @@
 
 __metadata:
   version: 8
-  cacheKey: 10
+  cacheKey: 10c0
 
 "7zip-bin@npm:~5.1.1":
   version: 5.1.1
@@ -2905,10 +2905,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jose@npm:4.8.3":
-  version: 4.8.3
-  resolution: "jose@npm:4.8.3"
-  checksum: 8/a4a03d329d3611696d94a81df06e7fe160cef987da032ecc9e0a9d1e5e751b5101d1657eed16ead5f1905c9c2009d48820538412af4e5257f205a8754dd09d31
+"jose@npm:4.9.2":
+  version: 4.9.2
+  resolution: "jose@npm:4.9.2"
+  checksum: e992b623f1f6bed35e447593a2ef204373bffdc140e21b188d9297dc1e609c4a95fd87e481a34abcdf83594583e498d2b5b053f4751ceb9ef97c4bd17af348c5
   languageName: node
   linkType: hard
 
@@ -3938,7 +3938,7 @@ __metadata:
     eslint-plugin-jsdoc: "npm:37.9.7"
     eslint-plugin-prettier: "npm:4.2.1"
     eslint-plugin-security: "npm:1.5.0"
-    jose: "npm:4.8.3"
+    jose: "npm:4.9.2"
     node-gyp: "npm:8.4.1"
     node-loader: "npm:2.0.0"
     node-pty: "npm:0.10.1"
@@ -4059,7 +4059,7 @@ __metadata:
     supports-preserve-symlinks-flag: "npm:^1.0.0"
   bin:
     resolve: bin/resolve
-  checksum: 551dd500765cce767c583747f5f21ceb51d437f539b01aee96d6ec39eb2c68a8ff5d646b083d690fe428a81329856bc1bbdb094379b8df4b3f10e7e1f6aa3839
+  checksum: 10/551dd500765cce767c583747f5f21ceb51d437f539b01aee96d6ec39eb2c68a8ff5d646b083d690fe428a81329856bc1bbdb094379b8df4b3f10e7e1f6aa3839
   languageName: node
   linkType: hard
 
