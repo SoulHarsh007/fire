@@ -1836,16 +1836,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:22.3.25":
-  version: 22.3.25
-  resolution: "electron@npm:22.3.25"
+"electron@npm:22.3.27":
+  version: 22.3.27
+  resolution: "electron@npm:22.3.27"
   dependencies:
     "@electron/get": "npm:^2.0.0"
     "@types/node": "npm:^16.11.26"
     extract-zip: "npm:^2.0.1"
   bin:
     electron: cli.js
-  checksum: 9f4f70cc4c4f46e932789ff09d1391e2f71bd348f5827a5c0d78f11ecf2454bff8612e7811abaec7cbac55a5eea9107e13eb72b9a7ccc43e6d3222f334f7c94a
+  checksum: 4ec1bbdc04686a2c778151ecc989cbe19f26d776c3ac7efc1aebb08c91cc2a4d32ed80f8d1cdea3e9acf22bdbd62ea473dc685201212328491cad6147b7aa3d3
   languageName: node
   linkType: hard
 
@@ -3971,7 +3971,7 @@ __metadata:
     "@nia3208/centra": "npm:1.0.9-1"
     "@types/bs58": "npm:4.0.4"
     bs58: "npm:4.0.1"
-    electron: "npm:22.3.25"
+    electron: "npm:22.3.27"
     electron-builder: "npm:22.14.13"
     electron-serve: "npm:1.1.0"
     electron-store: "npm:8.1.0"
