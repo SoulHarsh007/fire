@@ -280,12 +280,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/bs58@npm:4.0.1":
-  version: 4.0.1
-  resolution: "@types/bs58@npm:4.0.1"
+"@types/bs58@npm:4.0.4":
+  version: 4.0.4
+  resolution: "@types/bs58@npm:4.0.4"
   dependencies:
+    "@types/node": "npm:*"
     base-x: "npm:^3.0.6"
-  checksum: 8/5063fed6bb3816f28eef3e689a05f8f85d03ce7c2e3ceefe77c349ed147023999eb024e863bf3fa81ba2bded690e5296efe4d34864c875097bd261614e37f786
+  checksum: 002deb33788f4b36dbb476e71f5b5724b1d7774d92dd83cd7532ae11706bc80ffc2f001920dfeb06eb4bc33df6f7b7bb168892953c859ca9bb969ce96b8e22dc
   languageName: node
   linkType: hard
 
@@ -3968,7 +3969,7 @@ __metadata:
   resolution: "rebornos-fire@workspace:."
   dependencies:
     "@nia3208/centra": "npm:1.0.9-1"
-    "@types/bs58": "npm:4.0.1"
+    "@types/bs58": "npm:4.0.4"
     bs58: "npm:4.0.1"
     electron: "npm:22.3.25"
     electron-builder: "npm:22.14.13"
