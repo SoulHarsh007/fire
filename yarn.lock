@@ -4353,7 +4353,7 @@ __metadata:
     validator: "npm:13.11.0"
     webpack: "npm:5.89.0"
     webpack-cli: "npm:5.1.4"
-    yaml: "npm:1.10.2"
+    yaml: "npm:2.3.4"
   languageName: unknown
   linkType: soft
 
@@ -5431,10 +5431,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml@npm:1.10.2":
-  version: 1.10.2
-  resolution: "yaml@npm:1.10.2"
-  checksum: 8/ce4ada136e8a78a0b08dc10b4b900936912d15de59905b2bf415b4d33c63df1d555d23acb2a41b23cf9fb5da41c256441afca3d6509de7247daa062fd2c5ea5f
+"yaml@npm:2.3.4":
+  version: 2.3.4
+  resolution: "yaml@npm:2.3.4"
+  checksum: cf03b68f8fef5e8516b0f0b54edaf2459f1648317fc6210391cf606d247e678b449382f4bd01f77392538429e306c7cba8ff46ff6b37cac4de9a76aff33bd9e1
   languageName: node
   linkType: hard
 

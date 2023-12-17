@@ -45,7 +45,7 @@
     "jose": "4.15.4",
     "node-pty": "1.0.0",
     "validator": "13.11.0",
-    "yaml": "1.10.2"
+    "yaml": "2.3.4"
   },
   "devDependencies": {
     "@types/bs58": "4.0.4",
