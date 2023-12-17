@@ -61,7 +61,7 @@
     "node-loader": "2.0.0",
     "prettier": "3.1.1",
     "webpack": "5.89.0",
-    "webpack-cli": "4.10.0"
+    "webpack-cli": "5.1.4"
   },
   "build": {
     "appId": "org.rebornos.fire",
