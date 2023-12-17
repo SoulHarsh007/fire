@@ -44,7 +44,7 @@
     "electron-unhandled": "3.0.2",
     "jose": "4.15.4",
     "node-pty": "0.10.1",
-    "validator": "13.7.0",
+    "validator": "13.11.0",
     "yaml": "1.10.2"
   },
   "devDependencies": {

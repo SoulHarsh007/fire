@@ -4020,7 +4020,7 @@ __metadata:
     node-loader: "npm:2.0.0"
     node-pty: "npm:0.10.1"
     prettier: "npm:2.8.8"
-    validator: "npm:13.7.0"
+    validator: "npm:13.11.0"
     webpack: "npm:5.89.0"
     webpack-cli: "npm:4.10.0"
     yaml: "npm:1.10.2"
@@ -4814,10 +4814,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"validator@npm:13.7.0":
-  version: 13.7.0
-  resolution: "validator@npm:13.7.0"
-  checksum: 8/2b83283de1222ca549a7ef57f46e8d49c6669213348db78b7045bce36a3b5843ff1e9f709ebf74574e06223461ee1f264f8cc9a26a0060a79a27de079d8286ef
+"validator@npm:13.11.0":
+  version: 13.11.0
+  resolution: "validator@npm:13.11.0"
+  checksum: 0107da3add5a4ebc6391dac103c55f6d8ed055bbcc29a4c9cbf89eacfc39ba102a5618c470bdc33c6487d30847771a892134a8c791f06ef0962dd4b7a60ae0f5
   languageName: node
   linkType: hard
 
