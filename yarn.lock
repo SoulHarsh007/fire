@@ -1440,9 +1440,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"conf@npm:^10.1.2":
-  version: 10.1.2
-  resolution: "conf@npm:10.1.2"
+"conf@npm:^10.2.0":
+  version: 10.2.0
+  resolution: "conf@npm:10.2.0"
   dependencies:
     ajv: "npm:^8.6.3"
     ajv-formats: "npm:^2.1.1"
@@ -1454,7 +1454,7 @@ __metadata:
     onetime: "npm:^5.1.2"
     pkg-up: "npm:^3.1.0"
     semver: "npm:^7.3.5"
-  checksum: 8/769459c85d018d32fe6bd76d5445785ccfb609868eb5c7ee31ff3884bf74aabf3df84aeb6b43a5e8b84e423eb93787d85dbc3d3336774d902753d4f5b64d98cf
+  checksum: d608d8c54ba7fad368eac640e77f2ce0334ec27cfd62ac39f44e361af8af9915eaa6c2ada81fbc25c3219273d972b4868bc752e8e2116cb6e12d35df72dc25a4
   languageName: node
   linkType: hard
 
@@ -1806,13 +1806,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-store@npm:8.0.2":
-  version: 8.0.2
-  resolution: "electron-store@npm:8.0.2"
+"electron-store@npm:8.1.0":
+  version: 8.1.0
+  resolution: "electron-store@npm:8.1.0"
   dependencies:
-    conf: "npm:^10.1.2"
-    type-fest: "npm:^2.12.2"
-  checksum: 8/b44e5c1ee8d76e19db62bc95670b4fcf150bbf81b8559f12cb7d983e622c309714b0a04080abad83f8b2aa8f27572c7dda76b7777d6e1551c23e91b605d02da2
+    conf: "npm:^10.2.0"
+    type-fest: "npm:^2.17.0"
+  checksum: 19963178850a564baa29532da09475a9253b555d7821a391832ff46bec42639409d52cc52fd527d9803413a61d0809ecc8d8a8f743e480677736baee7714f253
   languageName: node
   linkType: hard
 
@@ -3973,7 +3973,7 @@ __metadata:
     electron: "npm:22.3.25"
     electron-builder: "npm:22.14.13"
     electron-serve: "npm:1.1.0"
-    electron-store: "npm:8.0.2"
+    electron-store: "npm:8.1.0"
     electron-unhandled: "npm:3.0.2"
     eslint: "npm:8.20.0"
     eslint-config-google: "npm:0.14.0"
@@ -4637,10 +4637,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"type-fest@npm:^2.12.2":
-  version: 2.16.0
-  resolution: "type-fest@npm:2.16.0"
-  checksum: 8/897fc5f6833de5ade5c4841d034bdfb6aaa168f24f725354ad13320b2a463b9df03a7a664b836b4c3bc7d9f92b22a25c26fe24668a35caf3b7a9ea5fcb847b8d
+"type-fest@npm:^2.17.0":
+  version: 2.19.0
+  resolution: "type-fest@npm:2.19.0"
+  checksum: a5a7ecf2e654251613218c215c7493574594951c08e52ab9881c9df6a6da0aeca7528c213c622bc374b4e0cb5c443aa3ab758da4e3c959783ce884c3194e12cb
   languageName: node
   linkType: hard
 
