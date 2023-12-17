@@ -42,7 +42,7 @@
     "electron-serve": "1.2.0",
     "electron-store": "8.1.0",
     "electron-unhandled": "3.0.2",
-    "jose": "4.9.2",
+    "jose": "4.15.4",
     "node-pty": "0.10.1",
     "validator": "13.7.0",
     "yaml": "1.10.2"
