@@ -2962,10 +2962,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jose@npm:4.9.2":
-  version: 4.9.2
-  resolution: "jose@npm:4.9.2"
-  checksum: e992b623f1f6bed35e447593a2ef204373bffdc140e21b188d9297dc1e609c4a95fd87e481a34abcdf83594583e498d2b5b053f4751ceb9ef97c4bd17af348c5
+"jose@npm:4.15.4":
+  version: 4.15.4
+  resolution: "jose@npm:4.15.4"
+  checksum: ce8b29f84d6172a566b12b599dafa82f3bef0f16278bb76d562490ac1516fcc14017b05a39d20ffad25ed504f4996d4af4c9d3e0273d95b2d5559bf6d1112bc0
   languageName: node
   linkType: hard
 
@@ -3982,7 +3982,7 @@ __metadata:
     eslint-plugin-jsdoc: "npm:37.9.7"
     eslint-plugin-prettier: "npm:4.2.1"
     eslint-plugin-security: "npm:1.5.0"
-    jose: "npm:4.9.2"
+    jose: "npm:4.15.4"
     node-gyp: "npm:8.4.1"
     node-loader: "npm:2.0.0"
     node-pty: "npm:0.10.1"
