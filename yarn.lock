@@ -2042,12 +2042,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-security@npm:1.5.0":
-  version: 1.5.0
-  resolution: "eslint-plugin-security@npm:1.5.0"
+"eslint-plugin-security@npm:1.7.1":
+  version: 1.7.1
+  resolution: "eslint-plugin-security@npm:1.7.1"
   dependencies:
     safe-regex: "npm:^2.1.1"
-  checksum: 8/c51c9d43d1ef1eaf803d136ae73522369f1e0b4f2633a56fc3226afd64ad3936943080bf506353c25422d1d73e8395946d016847e0ac5c0b5886c394fe848b9f
+  checksum: a618cf2f5bf78ac363ca74ef4a5085bc31972f247129b6c7dbd2c0db6bf0866b7b5ce2b00a2078e867ac3a25e9c33a4698233f2ff0cda2e392efdb8d30ad214e
   languageName: node
   linkType: hard
 
@@ -4014,7 +4014,7 @@ __metadata:
     eslint-config-prettier: "npm:8.5.0"
     eslint-plugin-jsdoc: "npm:37.9.7"
     eslint-plugin-prettier: "npm:4.2.1"
-    eslint-plugin-security: "npm:1.5.0"
+    eslint-plugin-security: "npm:1.7.1"
     jose: "npm:4.15.4"
     node-gyp: "npm:8.4.1"
     node-loader: "npm:2.0.0"
