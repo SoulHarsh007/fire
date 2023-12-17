@@ -1734,10 +1734,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-is-dev@npm:^1.0.1":
-  version: 1.2.0
-  resolution: "electron-is-dev@npm:1.2.0"
-  checksum: 8/73eee7aa7ce90a387bf224ec26aa808237164572641ca41cdca34a046adb72406d4414c3cc5b0b5e335a6d6010886474e1325c0b0af40c9fac95210b00195fdb
+"electron-is-dev@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "electron-is-dev@npm:2.0.0"
+  checksum: aa540115f144f9c8c788e13fc581be7b0f9f83422eecb940af6367c67d63c3a656e03ad9c1138f17bcfbafc9edca8b83f655feff24dead2cc4866169c6e565f9
   languageName: node
   linkType: hard
 
@@ -1780,15 +1780,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-unhandled@npm:3.0.2":
-  version: 3.0.2
-  resolution: "electron-unhandled@npm:3.0.2"
+"electron-unhandled@npm:4.0.1":
+  version: 4.0.1
+  resolution: "electron-unhandled@npm:4.0.1"
   dependencies:
     clean-stack: "npm:^2.1.0"
-    electron-is-dev: "npm:^1.0.1"
+    electron-is-dev: "npm:^2.0.0"
     ensure-error: "npm:^2.0.0"
     lodash.debounce: "npm:^4.0.8"
-  checksum: 8/7ca47b177b671920e760ea72a0cd06f9f1d3f80e543717fbcbc761c0499c82505672343f5b931f44b1604712467bad6fae1d3f4428a55f735b30f9b9e26d3373
+    serialize-error: "npm:^8.1.0"
+  checksum: 647fa41832c69516f5ac9e895a8aa3cc91795d488124027bfa374ee03c1150d0db5821466d99154ae3fc31d4818b8cf24c06c36d9fd2333b1055074a1537ccab
   languageName: node
   linkType: hard
 
@@ -3933,7 +3934,7 @@ __metadata:
     electron-builder: "npm:24.9.1"
     electron-serve: "npm:1.2.0"
     electron-store: "npm:8.1.0"
-    electron-unhandled: "npm:3.0.2"
+    electron-unhandled: "npm:4.0.1"
     eslint: "npm:8.56.0"
     eslint-config-google: "npm:0.14.0"
     eslint-config-prettier: "npm:8.10.0"
@@ -4209,6 +4210,15 @@ __metadata:
   dependencies:
     type-fest: "npm:^0.13.1"
   checksum: 8/e0aba4dca2fc9fe74ae1baf38dbd99190e1945445a241ba646290f2176cdb2032281a76443b02ccf0caf30da5657d510746506368889a593b9835a497fc0732e
+  languageName: node
+  linkType: hard
+
+"serialize-error@npm:^8.1.0":
+  version: 8.1.0
+  resolution: "serialize-error@npm:8.1.0"
+  dependencies:
+    type-fest: "npm:^0.20.2"
+  checksum: 8cfd89f43ca93e283c5f1d16178a536bdfac9bc6029f4a9df988610cc399bc4f2478d1f10ce40b9dff66b863a5158a19b438fbec929045c96d92174f6bca1e88
   languageName: node
   linkType: hard
 
