@@ -13372,7 +13372,7 @@ __metadata:
     react-scripts: "npm:4.0.3"
     rsuite: "npm:5.48.0"
     xterm: "npm:4.19.0"
-    xterm-addon-web-links: "npm:0.6.0"
+    xterm-addon-web-links: "npm:0.9.0"
     xterm-link-provider: "npm:1.3.1"
   languageName: unknown
   linkType: soft
@@ -16714,12 +16714,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xterm-addon-web-links@npm:0.6.0":
-  version: 0.6.0
-  resolution: "xterm-addon-web-links@npm:0.6.0"
+"xterm-addon-web-links@npm:0.9.0":
+  version: 0.9.0
+  resolution: "xterm-addon-web-links@npm:0.9.0"
   peerDependencies:
-    xterm: ^4.0.0
-  checksum: 8/1f6f93a5ab4ccd4fe313e0693f6e19bb030497adee97a4f73dfa63700bffbf88125918a7dc0da3332a340c51b0a828b908240f0d6c1e651d3fe41e8220a8d43d
+    xterm: ^5.0.0
+  checksum: 778076f3d7d0b2c6fa25aa6e2a236286a7a1268519139248142f17442bd6b0716b7d7ff5788d664670eab80826087c0884ebd1abc93d60fa5e879579d5218907
   languageName: node
   linkType: hard
 
