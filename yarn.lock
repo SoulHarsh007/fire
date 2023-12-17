@@ -1800,10 +1800,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-serve@npm:1.1.0":
-  version: 1.1.0
-  resolution: "electron-serve@npm:1.1.0"
-  checksum: 8/1b96c576d9fea06e4c8e8dd67225c07661685c7899e7b621d3cdc3cc38c1ad0d228aae44d4febc3537876f017b27f9fcf3196d0b6e28383a94aa27958e3911db
+"electron-serve@npm:1.2.0":
+  version: 1.2.0
+  resolution: "electron-serve@npm:1.2.0"
+  checksum: c48378f6413272bb91e289c5b6a1a11e6ee1e5a909fb6d829dabce9d98ed66060d7616daecd7d40a9d29877a50a44aed2d5e055882bfd6120d0bf3c8e6e14471
   languageName: node
   linkType: hard
 
@@ -3973,7 +3973,7 @@ __metadata:
     bs58: "npm:4.0.1"
     electron: "npm:22.3.27"
     electron-builder: "npm:22.14.13"
-    electron-serve: "npm:1.1.0"
+    electron-serve: "npm:1.2.0"
     electron-store: "npm:8.1.0"
     electron-unhandled: "npm:3.0.2"
     eslint: "npm:8.20.0"
