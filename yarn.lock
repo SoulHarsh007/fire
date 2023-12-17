@@ -3626,12 +3626,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nan@npm:^2.14.0":
-  version: 2.16.0
-  resolution: "nan@npm:2.16.0"
+"nan@npm:^2.17.0":
+  version: 2.18.0
+  resolution: "nan@npm:2.18.0"
   dependencies:
     node-gyp: "npm:latest"
-  checksum: 8/cb16937273ea55b01ea47df244094c12297ce6b29b36e845d349f1f7c268b8d7c5abd126a102c5678a1e1afd0d36bba35ea0cc959e364928ce60561c9306064a
+  checksum: 9209d80134fdb98c0afe35c1372d2b930a0a8d3c52706cb5e4257a27e9845c375f7a8daedadadec8d6403ca2eebb3b37d362ff5d1ec03249462abf65fef2a148
   languageName: node
   linkType: hard
 
@@ -3716,12 +3716,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-pty@npm:0.10.1":
-  version: 0.10.1
-  resolution: "node-pty@npm:0.10.1"
+"node-pty@npm:1.0.0":
+  version: 1.0.0
+  resolution: "node-pty@npm:1.0.0"
   dependencies:
-    nan: "npm:^2.14.0"
-  checksum: 8/c136904deafa172a19a3cc02e053e24f3271330062cf10307689e24d2469bba623ba20ee53d22538dbfb6c147b1530a2e6309acb1a261d5d7d35b5417aa91e0d
+    nan: "npm:^2.17.0"
+    node-gyp: "npm:latest"
+  checksum: c308686826eb2f7616735f4c71e6e41ff630346b14319972dbdf9711640bc6975ce21eab66a47b7ce9a88c70308fe81bfd9840127388d5fa26c52afbad255871
   languageName: node
   linkType: hard
 
@@ -4145,7 +4146,7 @@ __metadata:
     jose: "npm:4.15.4"
     node-gyp: "npm:8.4.1"
     node-loader: "npm:2.0.0"
-    node-pty: "npm:0.10.1"
+    node-pty: "npm:1.0.0"
     prettier: "npm:2.8.8"
     validator: "npm:13.11.0"
     webpack: "npm:5.89.0"
