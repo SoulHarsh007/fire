@@ -1759,7 +1759,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.20.0, @babel/runtime@npm:^7.20.1, @babel/runtime@npm:^7.21.0":
+"@babel/runtime@npm:^7.0.0, @babel/runtime@npm:^7.12.1, @babel/runtime@npm:^7.20.0, @babel/runtime@npm:^7.20.1, @babel/runtime@npm:^7.21.0":
   version: 7.23.6
   resolution: "@babel/runtime@npm:7.23.6"
   dependencies:
@@ -2347,10 +2347,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rsuite/icons@npm:1.0.2, @rsuite/icons@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "@rsuite/icons@npm:1.0.2"
+"@rsuite/icons@npm:1.0.3":
+  version: 1.0.3
+  resolution: "@rsuite/icons@npm:1.0.3"
   dependencies:
+    "@babel/runtime": "npm:^7.12.1"
     "@rsuite/icon-font": "npm:^4.0.0"
     classnames: "npm:^2.2.5"
     insert-css: "npm:^2.0.0"
@@ -2358,7 +2359,7 @@ __metadata:
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 8/b90826f88811c002ac6a5d676d426c4bca0c50151a287f4fb4e5bcb5d825138c9f93d9f2e60e121803c57de78a03a97daa94028b8e17174ee8f46d66f74d57b9
+  checksum: dfcab2a1d89fccf3e2bfbcdb85df686261ee12feb2b1d580f5cd2cd436976ebdeaff2f8fc90c900a72e67dc6f47cc3b1fecdcdf3a55e5b673cfeff7ea3c9a2a4
   languageName: node
   linkType: hard
 
@@ -2374,6 +2375,21 @@ __metadata:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
   checksum: 8/45752905fd9984db1be957375335c79e2a3e4d86a9fe33ec7d0e472eadece05d8dd0f6223fa9527f161d503868aa9632b5867284380d4e4898ff286dbfd23dc2
+  languageName: node
+  linkType: hard
+
+"@rsuite/icons@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "@rsuite/icons@npm:1.0.2"
+  dependencies:
+    "@rsuite/icon-font": "npm:^4.0.0"
+    classnames: "npm:^2.2.5"
+    insert-css: "npm:^2.0.0"
+    lodash: "npm:^4.17.20"
+  peerDependencies:
+    react: ">=16.8.0"
+    react-dom: ">=16.8.0"
+  checksum: 8/b90826f88811c002ac6a5d676d426c4bca0c50151a287f4fb4e5bcb5d825138c9f93d9f2e60e121803c57de78a03a97daa94028b8e17174ee8f46d66f74d57b9
   languageName: node
   linkType: hard
 
@@ -13346,7 +13362,7 @@ __metadata:
   resolution: "rebornos-fire-renderer@workspace:."
   dependencies:
     "@craco/craco": "npm:6.4.5"
-    "@rsuite/icons": "npm:1.0.2"
+    "@rsuite/icons": "npm:1.0.3"
     "@types/react": "npm:17.0.73"
     "@types/react-dom": "npm:17.0.25"
     eslint-plugin-react: "npm:7.33.2"
